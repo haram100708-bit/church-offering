@@ -4,7 +4,7 @@ import os
 
 # 파일 설정
 file_name = '교회헌금장부_USD.xlsx'
-member_list = ["구하람", "구하은", "구종관", "정선임"]
+member_list = ["구하람", "구하은", "구종관", "정선임","홍길동"]
 
 st.title("⛪ 교회 헌금 관리 시스템")
 
